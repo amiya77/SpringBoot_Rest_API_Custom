@@ -15,7 +15,7 @@ public class SpringBootRestApiApplication {
 
 	@GetMapping("/")
 	public String welcomeMsg() {
-		return "Welcome To Ashok IT..!!";
+		return "Welcome To DevOps Junction..!!";
 	}
 
 }
