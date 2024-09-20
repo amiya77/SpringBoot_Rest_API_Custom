@@ -8,7 +8,7 @@
 		<version>2.7.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.ashokit</groupId>
+	<groupId>in.am</groupId>
 	<artifactId>SpringBoot_REST_API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBoot_REST_API</name>
